@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Usama_Aman</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="restaurantStatusOpen">Open</string>
+    <string name="restaurantStatusClose">Closed</string>
+    <string name="dot">\t•\t</string>
+    <string name="deliveryTIme">%1$s min</string>
+    <string name="delivery_time_description">Delivery Time</string>
+    <string name="rating">Rating</string>
+</resources>
